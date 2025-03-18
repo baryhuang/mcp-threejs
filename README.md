@@ -1,6 +1,6 @@
 # mcp-threejs
 
-# MCP Threejs: Online 3D Resource Connector for Three.js
+# MCP Threejs: Allow creation of animation in Claude Desktop using Three.js
 [![Docker Hub](https://img.shields.io/docker/v/buryhuang/mcp-server-threejs?label=Docker%20Hub)](https://hub.docker.com/r/buryhuang/mcp-server-threejs)
 
 ## Overview
